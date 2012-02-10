@@ -1,0 +1,1 @@
+This repo is to work on adding coding convention checks for CloudStack, and to slowly build up until such time as everyone is happy. Thus it's likely to contain two checkstyle XML files, the first the Sun-originated one from checkstyle, and the second one as a work in progress. 
